@@ -1,4 +1,4 @@
-#Jewelery Website (E-Commerce) Project
+<h2>Jewelery Website (E-Commerce) Project</h2>
 <h3>PROJE İÇERİĞİ</h3>
 <p>Firebase ile Kullanıcı girişi, kayıt olma</p>
 <p>Ürün listeleme ve ürün detayları,kategori sayfaları</p>
